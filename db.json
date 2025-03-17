@@ -1,0 +1,11 @@
+{
+    "users": [
+      { "id": 1, "name": "John" },
+      { "id": 2, "name": "Edgar" },
+      { "id": 3, "name": "Shawn" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "nameId": 1 },
+      { "id": 2, "body": "some comment", "nameId": 2 }
+    ]
+  }
